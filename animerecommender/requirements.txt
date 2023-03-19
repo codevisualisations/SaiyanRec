@@ -1,0 +1,10 @@
+bootstrap4==0.1.0
+misaka==2.1.1
+pandas==1.0.3
+numpy==1.19.5
+tensorflow==2.6.0
+keras==2.6.0
+Django==3.0.6
+rake_nltk==1.0.4
+django_braces==1.14.0
+scikit_learn==0.24.2
