@@ -1,4 +1,4 @@
-RUNNING SAIYANREC:
+<h1> RUNNING SAIYANREC: </h1>
 
   [1] Navigate to the 'animerecommender' folder:
       e.g cd SaiyanRec/animerecommender
